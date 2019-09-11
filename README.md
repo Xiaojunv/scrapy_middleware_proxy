@@ -1,2 +1,2 @@
 # scrapy_middleware_proxy
-scrapy框架代理中间件
+scrapy框架中间件代理
